@@ -1,0 +1,5 @@
+5.07
+perl(HTML::Entities)
+perl(HTML::Parser)
+perl(HTML::Tagset)
+perl(Test::Fatal)
