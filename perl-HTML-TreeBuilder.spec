@@ -4,7 +4,7 @@
 #
 Name     : perl-HTML-TreeBuilder
 Version  : 5.07
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/K/KE/KENTNL/HTML-Tree-5.07.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/K/KE/KENTNL/HTML-Tree-5.07.tar.gz
 Summary  : 'Work with HTML in a DOM-like tree structure'
@@ -137,12 +137,12 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/HTML/AsSubs.pm
-/usr/lib/perl5/vendor_perl/5.30.3/HTML/Element.pm
-/usr/lib/perl5/vendor_perl/5.30.3/HTML/Element/traverse.pm
-/usr/lib/perl5/vendor_perl/5.30.3/HTML/Parse.pm
-/usr/lib/perl5/vendor_perl/5.30.3/HTML/Tree.pm
-/usr/lib/perl5/vendor_perl/5.30.3/HTML/Tree/AboutObjects.pod
-/usr/lib/perl5/vendor_perl/5.30.3/HTML/Tree/AboutTrees.pod
-/usr/lib/perl5/vendor_perl/5.30.3/HTML/Tree/Scanning.pod
-/usr/lib/perl5/vendor_perl/5.30.3/HTML/TreeBuilder.pm
+/usr/lib/perl5/vendor_perl/5.32.1/HTML/AsSubs.pm
+/usr/lib/perl5/vendor_perl/5.32.1/HTML/Element.pm
+/usr/lib/perl5/vendor_perl/5.32.1/HTML/Element/traverse.pm
+/usr/lib/perl5/vendor_perl/5.32.1/HTML/Parse.pm
+/usr/lib/perl5/vendor_perl/5.32.1/HTML/Tree.pm
+/usr/lib/perl5/vendor_perl/5.32.1/HTML/Tree/AboutObjects.pod
+/usr/lib/perl5/vendor_perl/5.32.1/HTML/Tree/AboutTrees.pod
+/usr/lib/perl5/vendor_perl/5.32.1/HTML/Tree/Scanning.pod
+/usr/lib/perl5/vendor_perl/5.32.1/HTML/TreeBuilder.pm
