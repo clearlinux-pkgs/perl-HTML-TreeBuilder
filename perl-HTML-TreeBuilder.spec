@@ -137,12 +137,12 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.32.1/HTML/AsSubs.pm
-/usr/lib/perl5/vendor_perl/5.32.1/HTML/Element.pm
-/usr/lib/perl5/vendor_perl/5.32.1/HTML/Element/traverse.pm
-/usr/lib/perl5/vendor_perl/5.32.1/HTML/Parse.pm
-/usr/lib/perl5/vendor_perl/5.32.1/HTML/Tree.pm
-/usr/lib/perl5/vendor_perl/5.32.1/HTML/Tree/AboutObjects.pod
-/usr/lib/perl5/vendor_perl/5.32.1/HTML/Tree/AboutTrees.pod
-/usr/lib/perl5/vendor_perl/5.32.1/HTML/Tree/Scanning.pod
-/usr/lib/perl5/vendor_perl/5.32.1/HTML/TreeBuilder.pm
+/usr/lib/perl5/vendor_perl/5.34.0/HTML/AsSubs.pm
+/usr/lib/perl5/vendor_perl/5.34.0/HTML/Element.pm
+/usr/lib/perl5/vendor_perl/5.34.0/HTML/Element/traverse.pm
+/usr/lib/perl5/vendor_perl/5.34.0/HTML/Parse.pm
+/usr/lib/perl5/vendor_perl/5.34.0/HTML/Tree.pm
+/usr/lib/perl5/vendor_perl/5.34.0/HTML/Tree/AboutObjects.pod
+/usr/lib/perl5/vendor_perl/5.34.0/HTML/Tree/AboutTrees.pod
+/usr/lib/perl5/vendor_perl/5.34.0/HTML/Tree/Scanning.pod
+/usr/lib/perl5/vendor_perl/5.34.0/HTML/TreeBuilder.pm
