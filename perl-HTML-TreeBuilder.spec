@@ -7,7 +7,7 @@
 #
 Name     : perl-HTML-TreeBuilder
 Version  : 5.07
-Release  : 19
+Release  : 20
 URL      : https://cpan.metacpan.org/authors/id/K/KE/KENTNL/HTML-Tree-5.07.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/K/KE/KENTNL/HTML-Tree-5.07.tar.gz
 Summary  : 'Work with HTML in a DOM-like tree structure'
